@@ -5,6 +5,7 @@
 Clone this repository
 ```
 git clone https://github.com/juampam/container_manager
+cd container_manager
 ```
 The classes are already compiled so you can:
 - Run the View class:

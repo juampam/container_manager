@@ -16,4 +16,4 @@ java container_manager.Vista
 ```
 javac container_manager/*.java
 ```
-Please make sure that you are in the repository root diretory when you run the commands
+Please make sure that you are in the repository root directory when you run the commands
